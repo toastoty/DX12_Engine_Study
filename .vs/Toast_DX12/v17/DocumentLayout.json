@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DX\\Toast_DX12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5EEF6-5CA3-4705-A4EB-0745371DD7DD}|Toast_DX12\\Toast_DX12.vcxproj|E:\\DX\\Toast_DX12\\Toast_DX12\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25C5EEF6-5CA3-4705-A4EB-0745371DD7DD}|Toast_DX12\\Toast_DX12.vcxproj|solutionrelative:Toast_DX12\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC7F84-F1E3-4397-AA40-299A4C81AF3B}|SkyCube\\SkyCube.vcxproj|E:\\DX\\Toast_DX12\\SkyCube\\SkyCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87CC7F84-F1E3-4397-AA40-299A4C81AF3B}|SkyCube\\SkyCube.vcxproj|solutionrelative:SkyCube\\SkyCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CC7F84-F1E3-4397-AA40-299A4C81AF3B}|SkyCube\\SkyCube.vcxproj|E:\\DX\\Toast_DX12\\SkyCube\\Shader\\TextureCube.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87CC7F84-F1E3-4397-AA40-299A4C81AF3B}|SkyCube\\SkyCube.vcxproj|solutionrelative:SkyCube\\Shader\\TextureCube.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4636D00-E055-4999-BB8E-E88FD9B61B3E}|TextureCube\\TextureCube.vcxproj|E:\\DX\\Toast_DX12\\TextureCube\\TextureCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4636D00-E055-4999-BB8E-E88FD9B61B3E}|TextureCube\\TextureCube.vcxproj|solutionrelative:TextureCube\\TextureCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0F74F9-4990-4983-BFDB-37C2EA7E61B5}|PlacedTexture\\PlacedTexture.vcxproj|E:\\DX\\Toast_DX12\\PlacedTexture\\PlacedTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C0F74F9-4990-4983-BFDB-37C2EA7E61B5}|PlacedTexture\\PlacedTexture.vcxproj|solutionrelative:PlacedTexture\\PlacedTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C5EEF6-5CA3-4705-A4EB-0745371DD7DD}|Toast_DX12\\Toast_DX12.vcxproj|E:\\DX\\Toast_DX12\\Toast_DX12\\Shader\\shaders.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25C5EEF6-5CA3-4705-A4EB-0745371DD7DD}|Toast_DX12\\Toast_DX12.vcxproj|solutionrelative:Toast_DX12\\Shader\\shaders.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D30A192-01F9-4E5B-A263-494945F60B0F}|Texture\\Texture.vcxproj|E:\\DX\\Toast_DX12\\Texture\\Shader\\Texture.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D30A192-01F9-4E5B-A263-494945F60B0F}|Texture\\Texture.vcxproj|solutionrelative:Texture\\Shader\\Texture.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextureCube.hlsl",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\SkyCube\\Shader\\TextureCube.hlsl",
+              "RelativeDocumentMoniker": "SkyCube\\Shader\\TextureCube.hlsl",
+              "ToolTip": "E:\\DX\\Toast_DX12\\SkyCube\\Shader\\TextureCube.hlsl",
+              "RelativeToolTip": "SkyCube\\Shader\\TextureCube.hlsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-05-26T12:05:29.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkyCube.cpp",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\SkyCube\\SkyCube.cpp",
+              "RelativeDocumentMoniker": "SkyCube\\SkyCube.cpp",
+              "ToolTip": "E:\\DX\\Toast_DX12\\SkyCube\\SkyCube.cpp",
+              "RelativeToolTip": "SkyCube\\SkyCube.cpp",
+              "ViewState": "AQIAAAYEAAAAAAAAAADwvzgEAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T07:19:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextureCube.cpp",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\TextureCube\\TextureCube.cpp",
+              "RelativeDocumentMoniker": "TextureCube\\TextureCube.cpp",
+              "ToolTip": "E:\\DX\\Toast_DX12\\TextureCube\\TextureCube.cpp",
+              "RelativeToolTip": "TextureCube\\TextureCube.cpp",
+              "ViewState": "AQIAAJsDAAAAAAAAAAAAAJkDAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T06:37:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlacedTexture.cpp",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\PlacedTexture\\PlacedTexture.cpp",
+              "RelativeDocumentMoniker": "PlacedTexture\\PlacedTexture.cpp",
+              "ToolTip": "E:\\DX\\Toast_DX12\\PlacedTexture\\PlacedTexture.cpp",
+              "RelativeToolTip": "PlacedTexture\\PlacedTexture.cpp",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAowBsCAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T07:49:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\Toast_DX12\\Main.cpp",
+              "RelativeDocumentMoniker": "Toast_DX12\\Main.cpp",
+              "ToolTip": "E:\\DX\\Toast_DX12\\Toast_DX12\\Main.cpp",
+              "RelativeToolTip": "Toast_DX12\\Main.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T14:38:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Texture.hlsl",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\Texture\\Shader\\Texture.hlsl",
+              "RelativeDocumentMoniker": "Texture\\Shader\\Texture.hlsl",
+              "ToolTip": "E:\\DX\\Toast_DX12\\Texture\\Shader\\Texture.hlsl",
+              "RelativeToolTip": "Texture\\Shader\\Texture.hlsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-05-02T06:56:27.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shaders.hlsl",
+              "DocumentMoniker": "E:\\DX\\Toast_DX12\\Toast_DX12\\Shader\\shaders.hlsl",
+              "RelativeDocumentMoniker": "Toast_DX12\\Shader\\shaders.hlsl",
+              "ToolTip": "E:\\DX\\Toast_DX12\\Toast_DX12\\Shader\\shaders.hlsl",
+              "RelativeToolTip": "Toast_DX12\\Shader\\shaders.hlsl",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-04-30T14:18:59.908Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1294,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
